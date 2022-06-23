@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m 25/ my_dir
+mkdir -m 25 /my_dir
